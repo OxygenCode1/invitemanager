@@ -1,7 +1,7 @@
 {
-  "name": "invitemanager-zrooter",
+  "name": "invitemanager-oxygen",
   "version": "0.0.1",
-  "description": "Discord: zRooter#7295",
+  "description": "Discord: BT`Oxygen.Kimsesiz#1962",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
